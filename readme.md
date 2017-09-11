@@ -9,3 +9,11 @@
 
 - `docker-compose up`
 - visit the site at `http://localhost`
+
+## Notes
+
+I've used this enviroment to build a site using:
+
+- Duplicator
+- ACF
+- WPML
